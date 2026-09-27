@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "http://localhost:8000"
+API_URL = "https://docchat-ai-backend-ifp9.onrender.com"
 
 st.set_page_config(page_title="DocChat AI", page_icon="📄")
 st.title("📄 DocChat AI")
